@@ -9,11 +9,11 @@
   --font-secondary: "Press+Start+2P", serif;
   --font-secondary: "Press+Start+2P", serif;
   --font-code: "Press+Start+2P", monospace;
-  --bg-color: #002824;
-  --bg-color-transparent: #00231d80;
-  --font-color: #00c3ef;
-  --btn-bg-color: #004ebc;
-  --accent-color: #00c795;
+  --bg-color: #8eb5b1;
+  --bg-color-transparent: #b9d2cd80;
+  --font-color: #03004b;
+  --btn-bg-color: #eb6600;
+  --accent-color: #e1009d;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
