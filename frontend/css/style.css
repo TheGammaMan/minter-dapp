@@ -1,19 +1,18 @@
 /* FONTS */
 
-@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap");
 
 /* GLOBAL STYLES */
 
 :root {
   --font-primary: "Press+Start+2P", sans-serif;
-  --font-secondary: "Press+Start+2P", serif;
-  --font-secondary: "Press+Start+2P", serif;
-  --font-code: "Press+Start+2P", monospace;
-  --bg-color: #8eb5b1;
-  --bg-color-transparent: #b9d2cd80;
-  --font-color: #03004b;
-  --btn-bg-color: #eb6600;
-  --accent-color: #e1009d;
+  --font-secondary: "VT323", serif;
+  --font-code: "VT323", monospace;
+  --bg-color: #001a17;
+  --bg-color-transparent: #008a6e80;
+  --font-color: #00b496;
+  --btn-bg-color: #00c8eb;
+  --accent-color: #000fe1;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
