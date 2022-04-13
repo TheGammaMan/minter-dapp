@@ -11,9 +11,9 @@
   --font-code: "Press+Start+2P", monospace;
   --bg-color: #002824;
   --bg-color-transparent: #00231d80;
-  --font-color: #87def2;
-  --btn-bg-color: #2f58b0;
-  --accent-color: #62ff00;
+  --font-color: #00c3ef;
+  --btn-bg-color: #004ebc;
+  --accent-color: #00c795;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
