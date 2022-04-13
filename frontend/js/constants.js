@@ -1,9 +1,9 @@
 const contractAddress = "0x7d34018798fBEce4175c8f7d43943C0046cCA3e4"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the GammaPunks NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'GammaPunks is a collection of 5000 randomly generated NFTs living in the Polygon Blockchain. Each character possesses a "Symbiote Friend" which is a mutated entity that is fused with his body and lives in symbiosis with the character. Each Punk have a single friend from 31 unique symbiotes, each having unique abilities.Each Character have seven different attributes from 180 unique traits. No two NFTs are exactly same. Individuals owning them have complete rights to use them in any ways. ';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
